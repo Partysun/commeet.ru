@@ -1,0 +1,27 @@
+body {
+}
+#logo {
+  font-family: 'Istok Web', sans-serif;
+  margin: 0;
+  margin-bottom: 35px;
+  padding: 0;
+}
+
+#logo #com {
+  color: #676766;
+}
+
+#logo #meet {
+}
+
+#logo #break {
+  color: #31A3D3;
+}
+
+.logo {
+  opacity: .8;
+}
+
+.logo:hover {
+  opacity: 1;
+}
